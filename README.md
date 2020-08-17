@@ -1,6 +1,8 @@
 # Proffy - Versão Mobile
 
-<img src="https://github.com/waliqueiroz/proffy-mobile/blob/master/proffy-mobile.jpg" height="720">
+<div style="text-align:center">
+  <img src="https://github.com/waliqueiroz/proffy-mobile/blob/master/proffy-mobile.jpg" height="720">
+</div>
 
 Proffy é uma plataforma de estudos online onde alunos coneseguem encontrar e se conectar a professores.
 
