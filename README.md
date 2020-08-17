@@ -23,6 +23,7 @@ Projeto desenvolvido durante a Next Level Week 2.
 
 * [Node JS](https://nodejs.org/en/)
 * [Yarn](https://yarnpkg.com/)
+* [Expo-CLI](https://docs.expo.io/get-started/installation/)
 
 ### Executando o projeto
 
